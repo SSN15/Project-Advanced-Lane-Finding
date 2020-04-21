@@ -69,7 +69,7 @@ The output of polynomial fit is shown below
  **Radius of curvature**
  Given the polynomial fit for the left and right lane lines, I calculated the radius of curvature for each line according to formulas. I also converted the distance units from pixels to meters, assuming 30 meters per 720 pixels in the vertical direction, and 3.7 meters per 700 pixels in the horizontal direction.
 
-The final annotated image is hsown below
+The final annotated image is shown below
 ![Image of annotated](https://github.com/SSN15/Project-Advanced-Lane-Finding/blob/master/output_images/annotated_test2.png)
 
 
