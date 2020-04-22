@@ -34,6 +34,7 @@ The final calibration matrices are saved in the pickle file 'calibrate_camera.p'
 2. Undistort the image using the parameters stored in 'calibrate_camera.p'
 The undistorted image is shown below
 ![Image of undistort](https://github.com/SSN15/Project-Advanced-Lane-Finding/blob/master/output_images/undistort_straight_lines2.png)
+
 All the undistorted images are stored in 'Project-Advanced-Lane-Finding/output_images/'
 
 3. Threshold binary image is obtained by feeding in the undistorted image.
