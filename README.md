@@ -73,6 +73,7 @@ The final annotated image is shown below
 ![Image of annotated](https://github.com/SSN15/Project-Advanced-Lane-Finding/blob/master/output_images/annotated_test2.png)
 
 **Lane detection for Video**
+
 Input the video file project_video..mp4
 Run the code Lanedetection_video.py and the result video is stored as out.mp4
 The pipeline works well for this video.
