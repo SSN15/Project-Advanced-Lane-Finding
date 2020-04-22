@@ -71,6 +71,7 @@ The output of polynomial fit is shown below
  Given the polynomial fit for the left and right lane lines, I calculated the radius of curvature for each line according to formulas. I also converted the distance units from pixels to meters, assuming 30 meters per 720 pixels in the vertical direction, and 3.7 meters per 700 pixels in the horizontal direction.
 
 The final annotated image is shown below
+
 ![Image of annotated](https://github.com/SSN15/Project-Advanced-Lane-Finding/blob/master/output_images/annotated_test2.png)
 
 **Lane detection for Video**
@@ -81,5 +82,9 @@ The pipeline works well for this video.
 
 However for the video file challenge_video.mp4, the result is not as robust as the previous vide.
 The expected performance can be achieved by building a deep learning model!
+
+Reference links:
+1. https://www.intmath.com/applications-differentiation/8-radius-curvature.php
+2. http://onlinemanuals.txdot.gov/txdotmanuals/rdw/horizontal_alignment.htm#BGBHGEGC
 
 
